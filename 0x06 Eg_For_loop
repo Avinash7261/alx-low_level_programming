@@ -1,0 +1,12 @@
+#This Program will print hello 6 times using for loop 
+#include<stdio.h>
+
+int main()
+{
+int i;
+for(i=0;i<6;i++)
+{
+  printf("hello");
+}
+return 0;
+}
